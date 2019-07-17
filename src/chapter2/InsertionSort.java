@@ -21,6 +21,7 @@ package chapter2;
  * --基本步骤:在两个扑克堆顶中选较小的一张,从堆中拿开放入输入输出堆.
  * --重复这个步骤,直到一个堆为空,把剩下的堆中的牌都放入输出堆
  * </p>
+ * //别人的学习笔记 https://www.cnblogs.com/alan-forever/p/3361149.html
  */
 public class InsertionSort {
     private static int[] arr1 = {-1, 3, 2, 5, 4, 6, 1, 77, 8, 9, 81, 0, 7, 22};

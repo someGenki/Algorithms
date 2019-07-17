@@ -4,8 +4,11 @@
       <w>bucketsort</w>
       <w>heapify</w>
       <w>heapsort</w>
+      <w>inorder</w>
+      <w>itertative</w>
       <w>quicksort</w>
       <w>radixsort</w>
+      <w>recurve</w>
       <w>strassen</w>
     </words>
   </dictionary>
