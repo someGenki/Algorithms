@@ -40,7 +40,7 @@ public class DynamicProgramming {
     //输出长度为n的钢条的完整切割方案
     public static void printCutRodSolution(int[] p,int n,int[] r,int[] s){
         extendedBottomUpCutRod(steel,10,r,s);
-        System.out.print("切"+n+"段,你应该这么切");
+        System.out.print("切"+n+"段,你应该这么切...");
         while(n>0){
             System.out.print(s[n]+" ");
             n=n-s[n];
