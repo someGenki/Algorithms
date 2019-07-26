@@ -15,6 +15,8 @@ import java.util.Arrays;
  * __2.递归地定义最优解的值
  * __3.计算最优解的值,通常采用自底向上的方法
  * __4.利用计算出的信息构造一个最优解
+ * </p>
+ *
  */
 public class DynamicProgramming {
     public static int[] steel = {0, 1, 5, 8, 9, 10, 17, 17, 20, 24, 30};
